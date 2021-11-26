@@ -4,11 +4,15 @@
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 
-## Include SVG with Markdown
+## Include SVG without links with Markdown
+
+![alt text](test_ohne_links.svg "title")
+
+## Include SVG with links with Markdown
 
 ![alt text](test.svg "title")
 
-## Include SVG with HTML
+## Include SVG with links with HTML
 
 <img alt="alt text" title="title" src="test.svg" >
 
