@@ -4,6 +4,8 @@
 
 ![alt text](Fuzzing_process_overview_2.drawio.svg "title")
 
+For a larger version of the image with clickable links, click [here](https://raw.githubusercontent.com/llzmb/test/2ad1bd651f38f85f11118e4e23dadc93a25a6323/Fuzzing_process_overview_2.drawio.svg?token=ALBIVRAJVUYK6NSPA5PQQ63BWJZ6U).
+
 ## Text 1
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
