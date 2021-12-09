@@ -2,7 +2,7 @@
 
 ## New SVG
 
-![alt text](test2.drawio.svg "title")
+![alt text](Fuzzing_process_overview_2.drawio.svg "title")
 
 ## Text 1
 
