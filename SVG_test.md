@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 ![alt text](overview.drawio.svg "title")
 
-For a larger version of the image with links, click [here](#).
+For a larger version of the image with links, click [here](https://raw.githubusercontent.com/llzmb/test/4eeeb6b74687ce95d329025ca7478f0c0097a828/overview.drawio.svg?token=ALBIVRHSMJEHLQ6SSVLMXYDBWJ2XC).
 
 ## Text 2
 
